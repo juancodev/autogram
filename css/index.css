@@ -1,0 +1,11 @@
+@import './header.css';
+@import './profile.css';
+
+body {
+  margin: 0 auto;
+  padding: 0;
+}
+
+main {
+  margin: 0 2.5rem;
+}
